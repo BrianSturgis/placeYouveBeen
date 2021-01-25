@@ -6,9 +6,10 @@
 <p align="center">Places You've Been</p>
 
 ## Application Description
+This is a website where you can keep track of all the places you've been. 
 
 ## The projects objectives were to complete the following (MVP)
-
+Each destination should be an object with multiple properties using Javascript and Object oriented programming, like location, landmarks, time of year, notes, etc. Display those properties when a user clicks on a place's name. Complete the business logic for your place object (including specs, which should go in your README). If you complete the business logic, you may work on adding a user interface.
 
 ## Known Bugs
 none as of yet but don't fret as there will be.
@@ -39,6 +40,7 @@ Expect:(places).toEqual{location, landmarks,time of year, notes}.
 
 
 ## Stretch goals
+- a complete understanding of the concepts used in this project
 
 
 ## Support and contact details
