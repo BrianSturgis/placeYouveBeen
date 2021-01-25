@@ -19,7 +19,7 @@ function Places(location, landmarks, timeOfYear, notes) {
   this.notes = notes;
 }
 // let samplePlace = new Places ("Portland", ["Powell's", "Japanese Garden", "Pittock Mansion"], "winter 2021", "Very chill, very fun");
-Places
+// Places
 // Places.prototype.propertiesOutput = function() {
 //   return this.location + " " +
 // }
@@ -31,10 +31,10 @@ Places
 
 
 // user logic
-$(document).ready(function() {
-  $("*").submit(function(event){
-    event.preventDefault();
-    $(".output").text();
+// $(document).ready(function() {
+//   $("*").submit(function(event){
+//     event.preventDefault();
+//     $(".output").text();
 
-  });
-});
+//   });
+// });
