@@ -32,10 +32,9 @@ none as of yet but don't fret as there will be.
 - (https://briansturgis.github.io/JanWeek3Project/)
 
 ## SPECS
-
-Test: "It should do a stuff and some things"
-
-Expect:(numberRange).toEqual();
+Describe: places{}
+Test: "It should create an "places" object"
+Expect:(places).toEqual{location, landmarks,time of year, notes}.
 
 
 
